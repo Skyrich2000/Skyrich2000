@@ -4,19 +4,14 @@
 
 Clean Code 와 TDD 에 익숙해지기 위해 노력중입니다!
 
-<h1> 프로젝트 소개 </h1>
-
-<h2> TENET </h2>
-<p> C 언어로 만든 TENET 영화 팬게임 </p>
+<p> C 언어로 만든 TENET 영화 팬게임! </p>
 <a href="https://github.com/skyrich2000/TENET"><img src="https://github-readme-stats.vercel.app/api/pin/?username=skyrich2000&repo=TENET"/></a>
 
-<h2> TENET </h2>
-<p> C 언어로 만든 TENET 영화 팬게임 </p>
-42-world/42world-Backend
+<p> 42인을 위한 커뮤니티 42world! </p>
+<a href="https://github.com/skyrich2000/TENET"><img src="https://github-readme-stats.vercel.app/api/pin/?username=42-world&repo=42world-Backend"/></a>
 
-<h2> TENET </h2>
-<p> C 언어로 만든 TENET 영화 팬게임 </p>
-timong
+<p> 일정을 쉽고 빠르게 정하는 서비스 timong! </p>
+<a href="https://github.com/skyrich2000/TENET"><img src="https://github-readme-stats.vercel.app/api/pin/?username=skyrich2000&repo=timong"/></a>
 
 <p align="center">  
   <a href="https://github.com/anuraghazra/github-readme-stats"><img style="height: 180px" src="https://github-readme-stats.vercel.app/api?username=skyrich2000"/></a>
