@@ -39,12 +39,15 @@
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/%EC%98%81%ED%9B%88-%EC%B0%A8-43658a234/"><img src="https://img.shields.io/badge/linkedin-0077B5?&style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://80000coding.oopy.io/fafbee5b-f464-4808-9572-5e378026e5e2"><img src="https://img.shields.io/badge/notion-000000?&style=flat-square&logo=notion&logoColor=white" /></a>
+  <a href=""><img src="https://img.shields.io/badge/notion-000000?&style=flat-square&logo=notion&logoColor=white" /></a>
   <a href="mailto:petercha2000@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?&style=flat-square&logo=gmail&logoColor=white" /></a>
 
 </p>
 
 <!--
+link
+https://80000coding.oopy.io/fafbee5b-f464-4808-9572-5e378026e5e2
+
 design
 https://github.com/coderjojo/creative-profile-readme
 https://github.com/StefanyVasc/StefanyVasc/blob/master/README.md#
