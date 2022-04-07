@@ -2,8 +2,8 @@
 
 <p align="center">
   <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img style="height: 150px" src="https://github-readme-stats.vercel.app/api?username=skyrich2000"/></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img style="height: 150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyrich2000&layout=compact"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img style="height: 150px; width: 300px" src="https://github-readme-stats.vercel.app/api?username=skyrich2000"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img style="height: 150px; width: 300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyrich2000&layout=compact"/></a>
   </div>
   </br>
   </br>
